@@ -1,0 +1,13 @@
+{
+    "rid": "rid-1520514893640",
+    "success": true,
+    "code": 0,
+    "message": "",
+    "data": {
+        "workSpaceId":12,                //workSpace Id
+        "caseId":12,                //案例 Id
+        "mapId":"地图版本",            //地图版本
+        "algoVersion":"算法版本",            //算法版本
+        "scenario":"文件内容"            //studio文件内容
+    }
+}   
